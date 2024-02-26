@@ -1,0 +1,45 @@
+Description of Dataset:
+id: Description of id
+age: Description of age
+bp: Description of bp
+sg: Description of sg
+al: Description of al
+su: Description of su
+rbc: Description of rbc
+pc: Description of pc
+pcc: Description of pcc
+ba: Description of ba
+bgr: Description of bgr
+bu: Description of bu
+sc: Description of sc
+sod: Description of sod
+pot: Description of pot
+hemo: Description of hemo
+pcv: Description of pcv
+wc: Description of wc
+rc: Description of rc
+htn: Description of htn
+dm: Description of dm
+cad: Description of cad
+appet: Description of appet
+pe: Description of pe
+ane: Description of ane
+classification: Description of classification
+
+variables ignored:
+id
+bgr
+bu
+sc
+pcv
+hemo
+htn
+dm
+cad
+appet
+pe
+ane
+sod
+pot
+wc
+rc

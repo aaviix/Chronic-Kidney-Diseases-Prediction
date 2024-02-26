@@ -1,0 +1,6 @@
+        self.menu_bar = QMenuBar()
+        self.file_menu = QMenu("File", self)
+        self.menu_bar.addMenu(self.file_menu)
+        edit_menu = QMenu("Edit", self)
+        self.menu_bar.addMenu(edit_menu)
+        self.menu_bar.setHidden(False)
