@@ -1,12 +1,5 @@
 # CHRONIC KIDNEY DISEASES (RECOMMENDATION SYSTEM)
 
-_Members:_
-
-| Name (First and Last Name)| Matriculation |
-| ------ | ------ |
-| Don Binoy | 22209158 |
-| Avanish Kumar Singh | 22200727 |
-
 **Project Title: Chronic Kidney Disease Prediction System**
 
 GIT LINK: https://mygit.th-deg.de/as23727/recommendation_system
