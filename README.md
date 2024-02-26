@@ -65,16 +65,3 @@ pip install -r requirements.txt
 3. Output Canvas: For data visualization, we created 1 or 2 output canvases. These display the results of data analysis and predictions in a user-friendly manner.
 4. Statistical Metrics: At least 3 statistical metrics are displayed based on the input data, providing insights into the dataset's characteristics.
 5. Interactive Predictions: The application is designed to be interactive. Changes in input parameters trigger new predictions and visualizations, enhancing the user experience and making the tool more dynamic.
-
-# Contributions
-
-Don Binoy:
-1. Worked on Collection and Preprocessing of Dataset using Pandas.
-2. Modifying and Preparing Data with use of numpy arrays.
-3. Training Working Logistic Regression Model with help of Scikit-learn.
-
-Avanish Kumar Singh:
-1. Creating a GUI Interface using PyQt6.
-2. Getting User-Inputs using different GUI elements.
-3. Integrating Logistic Regression model to main file in order to get predictions.
-4. Found Data source from kaggle
